@@ -1,7 +1,7 @@
 {
-  "name": "@cicada-lang/causality",
+  "name": "@xieyuheng/causality",
   "version": "0.0.1",
-  "repository": "github:cicada-lang/causality",
+  "repository": "github:xieyuheng/causality",
   "files": [
     "lib"
   ],
